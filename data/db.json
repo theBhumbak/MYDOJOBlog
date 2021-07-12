@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Minus natus molestias nihil reiciendis ullam atque tempore ab dolorem",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Minus natus molestias nihil reiciendis ullam atque tempore ab dolorem",
+      "author": "boom",
+      "id": 3
+    },
+    {
+      "title": "Web dev expo",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Minus natus molestias nihil reiciendis ullam atque tempore ab dolorem",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "hi this is kaboom",
+      "body": "kaboom is entering to dojo blog\n",
+      "author": "yoshi",
+      "id": 5
+    }
+  ]
+}
